@@ -1,7 +1,7 @@
 {
   "name": "blear.polyfills.data-set",
-  "version": "1.0.0",
-  "description": "blear.polyfills.data-set description",
+  "version": "1.0.1",
+  "description": "data-set polyfill IE8",
   "scripts": {},
   "preferGlobal": false,
   "bin": {},
@@ -11,6 +11,9 @@
   },
   "main": "src/index.js",
   "keywords": [
+    "blear",
+    "polyfills",
+    "data-set",
     "cloudcome",
     "ydr.me"
   ],
